@@ -1,1 +1,1 @@
-# Quiz-app
+A quiz competition using Spring Boot is a project that uses the Java framework Spring Boot to develop a quiz service. The service can expose a REST API that allows users to: Upload quiz questions, Generate a quiz with a set of random questions, and Submit answers and get a score. 
